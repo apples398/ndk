@@ -83,20 +83,7 @@ adb root
 adb usb
 
 
-Error:(81) Android NDK: Application targets deprecated ABI(s): armeabi mips    
 
-com.cloud.auto
-com.dmall.ad.fantastic
-1、摄像头固定后，拍照看到的图像左边画面会闪现黑屏一下。还有出现画面有条分隔线。
-
-2、update系统镜像文件后，出现后台一直在下载（uddate_wh228171222）
-
-3、调用定时开关机接口，今天未发现没启动现象。
-
-1、银河退出直接返回 app闪退
-2、系统日志导出
-
-4、开发日程计划
 
 
 
