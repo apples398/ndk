@@ -127,3 +127,7 @@ UsbConfiguration[mId=1,mName=null,mAttributes=192,mMaxPower=200,mInterfaces=[
 UsbInterface[mId=0,mAlternateSetting=0,mName=null,mClass=3,mSubclass=1,mProtocol=1,mEndpoints=[
 UsbEndpoint[mAddress=129,mAttributes=3,mMaxPacketSize=64,mInterval=1]
 UsbEndpoint[mAddress=2,mAttributes=3,mMaxPacketSize=64,mInterval=1]]]]
+
+
+
+$ dmesg  > 
