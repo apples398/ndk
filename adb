@@ -130,4 +130,5 @@ UsbEndpoint[mAddress=2,mAttributes=3,mMaxPacketSize=64,mInterval=1]]]]
 
 
 
-$ dmesg  > 
+$ dmesg  > $dmesg > /sdcard/kmsg.txt //将日志输出在kmsg.txt 这个过程通过busybox vi命令查看日志信息 最后将日志pull出来
+$adb pull /sdcard/kmsg.txt //exit退出
